@@ -346,4 +346,4 @@ Client.on("message", message => {
 
 
 
-Client.login("ODQyMDEwMjI0OTkzNzYzMzI4.YJvFIQ.tq099CpeoCuqbosPScKaA7uBof8")
+Client.login("VOTRE TOKEN")
