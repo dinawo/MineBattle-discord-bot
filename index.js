@@ -27,12 +27,12 @@ Client.on("message", message => {
 
     //ip
     if(message.content == prefix + "ip"){
-        message.reply("**L'ip du serveur MineBattle est strictement privé**: **178.32.125.169:25696**");
+        message.reply("**L'ip du serveur MineBattle est strictement privé**: **XXXXXXXXXXXX**");
     }
 
     //IP
     if(message.content == prefix + "IP"){
-        message.reply("**L'ip du serveur MineBattle est strictement privé**: **178.32.125.169:25696**");
+        message.reply("**L'ip du serveur MineBattle est strictement privé**: **XXXXXXXXXXXX**");
     }
 
     //règle
